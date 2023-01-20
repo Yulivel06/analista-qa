@@ -1,13 +1,18 @@
-probar software manera de asegurar claidad y reducir el riesgo de falla y aumentar confiabilidad del producto. 
-probar:someter algo a prueba, revisiar que todo este bien.
-Casos de prueba que es la ruta aseguir, distinto escenario con los que se encunetran normalmente. preparar con aticipacion 
-criterio de salida o de aprobacion: numero gravedad de las faltas cometidas
-reporte de resultados: demostrar que se cumple con lso requsuitos establecidos
-bases de prueba: bases a considerar para probar la prueba
-Planificacion
-tecnicas a utilizar
-analisis diseño
-implementacion y ejecucion 
+## ¿que es probar?
+
+probar software manera de asegurar calidad y reducir el riesgo de falla y aumentar confiabilidad del producto. 
+-probar:someter algo a prueba, revisiar que todo este bien.
+-Casos de prueba que es la ruta aseguir, distinto escenario con los que se encunetran normalmente. debemos preparar con anticipación 
+-criterio de salida o de aprobación: numero gravedad de las faltas cometidas
+-Reporte de resultados: demostrar que se cumple con los requisitos establecidos
+-Bases de prueba: bases a considerar para probar la prueba
+
+Probar es un proceso que requiere:
+-Planificacion
+-Téccnicas a utilizar
+-análisis diseño
+-implementacion y ejecución 
+
 
 verificar: construimos bien el software, de acuerdo a los requerimientos.
 validar:construimos el softare adecuado, es lo solciitdado, satisface las necesidades del susuario, resolvio el problema
