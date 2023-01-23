@@ -73,9 +73,22 @@ se debe vrificar que el cambio realizado no haya afectado otras secciones del so
 -depurar: es el proceso que identifica el origen de la falla y la repara.
 -probar: es el procedimeinto que sigue para ver si el software funciona.
 
-¿Por qué probar el software?
+## ¿Por qué probar el software?
+
 Reducir el riego de ocurrencia de falla y aumentar la confianza. 
-A través de pruebas rigurosoas logramos detectar fallas o defectos, aumenta la calidad de componentes. 
+A través de pruebas rigurosas logramos detectar fallas o defectos, aumenta la calidad de componentes. 
+ 
+     Un humano comete un ERROR que puede introducir un DEFECTO que podría generar una FALLA.
+
+    -Hay que tener en cuenta que no todos los defectos generaran fallas.
+    -No todas las fallas son de origen humano, pueden ser de origen ambiental
+    -No todos los resultados inesperados de las pruebas son fallas.
+
+1.Todo el mundo comete errores, los errores introducen defectos que pueden generar fallas.
+2.Reduce el riesgo y aumenta la confianza.
+3.Algunos defectos son difíciles de identificar debido a que se originan en suposiciones erradas o
+puntos ciegos.
+4.Algunas pruebas son obligatorias debido a estándares legales o comerciales.
 
 ## ¿Como las pruebas ayudan a elevar la calidad de software?
 Probadores y desarrolladores trabajan en equipo, se puede aumentar la comprension del funcionamiento del  código y como probarlo. 
