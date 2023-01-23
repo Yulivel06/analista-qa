@@ -85,9 +85,12 @@ A través de pruebas rigurosas logramos detectar fallas o defectos, aumenta la c
     -No todos los resultados inesperados de las pruebas son fallas.
 
 1.Todo el mundo comete errores, los errores introducen defectos que pueden generar fallas.
+
 2.Reduce el riesgo y aumenta la confianza.
+
 3.Algunos defectos son difíciles de identificar debido a que se originan en suposiciones erradas o
 puntos ciegos.
+
 4.Algunas pruebas son obligatorias debido a estándares legales o comerciales.
 
 ## ¿Como las pruebas ayudan a elevar la calidad de software?
